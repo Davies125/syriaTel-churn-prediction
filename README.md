@@ -86,8 +86,9 @@ The project was tackeled using the following pipeline:
 - High **daytime call minutes (>300)** correlate with higher churn risk.
 
 ```python
-# Top 3 features from Decision Tree
+# Top 3 features from Decision Tree are:
 important_features = ['customer_service_calls', 'international_plan_Yes', 'total_day_minutes']
+important_features
 ```
 
 ---
