@@ -44,7 +44,7 @@ to predict if a customer will churn, and learn which features matter most.
 
 ---
 
-## 👥 Stakeholders
+## Stakeholders
 
 - **Customer Retention Team**: Use model results to run save-campaigns.
 - **Marketing Team**: Create offers for high-risk groups.
